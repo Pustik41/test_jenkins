@@ -2,4 +2,4 @@
 echo "Hello world"
 echo "25"
 echo "hahaha"
-crontab cron.txt
+crontab /var/lib/jenkins/workspace/Testin\ git/cron.txt
