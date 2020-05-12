@@ -3,3 +3,4 @@ up server
 config job
 run job
 shut down server
+some functions
