@@ -1,0 +1,5 @@
+config server
+up server
+config job
+run job
+shut down server
